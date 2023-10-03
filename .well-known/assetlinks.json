@@ -6,4 +6,12 @@
     "sha256_cert_fingerprints":
     ["3B:E2:06:B7:50:49:31:D5:F3:33:91:74:94:70:69:A0:A3:6A:15:29:6B:72:1E:3F:04:13:9B:81:74:28:6D:FF"]
   }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jacky.instantapp.test",
+    "sha256_cert_fingerprints":
+    ["3B:E2:06:B7:50:49:31:D5:F3:33:91:74:94:70:69:A0:A3:6A:15:29:6B:72:1E:3F:04:13:9B:81:74:28:6D:FF"]
+  }
 }]
